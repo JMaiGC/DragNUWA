@@ -4,6 +4,24 @@
 
 See our paper:   [DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory](https://arxiv.org/abs/2308.08089)
 
+
+### DragNUWA 1.6 will come soon (Updated on Jan 30, 2024)
+* Consistency in human facial representation
+<p align="center">  
+  <img src="assets/DragNUWA1.6/human.gif" width="90%">  
+</p>  
+
+* Concurrent object motions and camera movements
+<p align="center">  
+  <img src="assets/DragNUWA1.6/camera.gif" width="90%">  
+</p>  
+
+* Unrealistic drags
+<p align="center">  
+  <img src="assets/DragNUWA1.6/unreal.gif" width="90%">  
+</p>  
+
+
 ### DragNUWA 1.5 (Updated on Jan 8, 2024)
 
 **DragNUWA 1.5** uses Stable Video Diffusion as a backbone to animate an image according to specific path.
